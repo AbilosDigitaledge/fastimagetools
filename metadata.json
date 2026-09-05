@@ -1,0 +1,6 @@
+{
+  "name": "FastImage.tools",
+  "description": "Fast, private image tools that run directly in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
